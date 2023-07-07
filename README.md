@@ -2,7 +2,7 @@
 
 ---
 
-<div stype="display:flex; justify-content: center;">
+<div style="display:flex; justify-content: center;">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ATeals&theme=shadow_blue&show_icons=true)
 
