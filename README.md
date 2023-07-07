@@ -2,4 +2,4 @@
 
 # Libero!!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A_Teals&theme=shadow_blue&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ATeals&theme=shadow_blue&show_icons=true)
