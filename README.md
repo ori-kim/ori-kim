@@ -5,5 +5,5 @@
 <div align="center">
 
 ![ATeal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ATeals&theme=shadow_blue&show_icons=true)
-![ATeal's  Language](https://github-readme-stats.vercel.app/api/top-langs/?username=ATeals&hide=mdx&layout=Compact)
+![ATeal's  Language](https://github-readme-stats.vercel.app/api/top-langs/?username=ATeals&hide=mdx&layout=compact)
 </div>
