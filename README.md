@@ -17,15 +17,14 @@
 
 ###### Contect Me 🙋
 
-<a src="https://blog.ateals.me/" alt="blog">
+<a href="https://blog.ateals.me/" alt="blog">
   <img src="https://img.shields.io/badge/blog-0A66C2?&style=for-the-badge&logoColor=white&logo=aboutdotme" />
 </a>
-<a src="mailto:ateals@icloud.com" alt="blog">
+<a href="mailto:ateals@icloud.com" alt="blog">
   <img src="https://img.shields.io/badge/Mail-30B980?&style=for-the-badge&logo=maildotru&logoColor=white" />
 </a>
-<a src="https://www.linkedin.com/in/%EB%AF%BC%EC%9A%B0-%EA%B9%80-2379832b7/" alt="blog">
-  <img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+
+
 
 ###### Skill 💻
 
