@@ -59,14 +59,6 @@
 ---
 
 # 블로그 최신 포스트
-
-
-<div style="display: flex; gap: 10px">
-
- 
-
-</div>
-
 <table witdh="100%" align="center">
   <tr>
     <td>
