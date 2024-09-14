@@ -58,6 +58,37 @@
 
 ---
 
+# 블로그 최신 포스트
+
+
+<div style="display: flex; gap: 10px">
+
+ 
+
+</div>
+
+<table witdh="100%" align="center">
+  <tr>
+    <td>
+         <a href="https://blog.ateals.me/readme-stats/link?type=Blog">
+          <img src="https://blog.ateals.me/readme-stats/blog.webp" />
+        </a>
+    </td>
+    <td>
+       <a href="https://blog.ateals.me/readme-stats/link?type=Docs">
+        <img src="https://blog.ateals.me/readme-stats/docs.webp" />
+      </a>
+    </td>
+    <td>
+      <a href="https://blog.ateals.me/readme-stats/link?type=Snapshot">
+        <img src="https://blog.ateals.me/readme-stats/snapshot.webp" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 <table witdh="100%" align="center">
   <tr>
     <td>
