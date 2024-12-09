@@ -58,50 +58,6 @@
 
 ---
 
-# 블로그 최신 포스트
-<table witdh="100%" align="center">
-  <tr>
-    <td>
-         <a href="https://blog.ateals.me/readme-stats/link?type=Blog">
-          <img src="https://blog.ateals.me/readme-stats/blog.webp" />
-        </a>
-    </td>
-    <td>
-       <a href="https://blog.ateals.me/readme-stats/link?type=Docs">
-        <img src="https://blog.ateals.me/readme-stats/docs.webp" />
-      </a>
-    </td>
-    <td>
-      <a href="https://blog.ateals.me/readme-stats/link?type=Snapshot">
-        <img src="https://blog.ateals.me/readme-stats/snapshot.webp" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-<table witdh="100%" align="center">
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=ATeals&show_icons=true&hide=contribs"
-        width="100%"
-        height="100%"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATeals&hide=mdx&layout=compact"
-        width="100%"
-        height="100%"
-      />
-    </td>
-  </tr>
-</table>
-
----
-
 <div align="end">
 
 [![wakatime](https://wakatime.com/badge/user/dadddbc6-775b-4cb2-9566-7778c0799273.svg)](https://wakatime.com/@dadddbc6-775b-4cb2-9566-7778c0799273)
