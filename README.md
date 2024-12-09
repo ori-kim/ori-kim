@@ -17,7 +17,7 @@
 
 ###### Contect Me 🙋
 
-<a href="https://blog.ateals.me/" alt="blog">
+<a href="https://blog.ateals.site/" alt="blog">
   <img src="https://img.shields.io/badge/blog-0A66C2?&style=for-the-badge&logoColor=white&logo=aboutdotme" />
 </a>
 <a href="mailto:ateals@icloud.com" alt="blog">
